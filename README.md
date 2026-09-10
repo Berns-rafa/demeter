@@ -16,7 +16,6 @@ Dessa forma, buscamos centralizar informações relevantes e facilitar o acesso 
 A seguir, será apresentada uma explicação das principais decisões tomadas durante o desenvolvimento do projeto, incluindo:
 
 - Arquitetura do sistema
-- Tecnologias utilizadas
 - Funcionalidades implementadas
 - Decisões de design
 - Experiência do usuário
