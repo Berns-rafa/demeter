@@ -1,22 +1,18 @@
-# 🌿 Projeto Deméter
+# Deméter — Protótipo interativo 
 
-Seja bem-vindo ao **Deméter**, um sistema desenvolvido pelos alunos **Rafael Bernardes** e **Ana Francisca**, sob a supervisão do professor **Marcelo Link** da Unifasipe Centro Universitário
+Protótipo demonstrativo baseado nos requisitos da documentação do projeto Deméter. Incluímos a navegação entre telas, filtros de receitas, detalhes, favoritos, cadastro/login simulados, personalização de preferências, conteúdos educativos e chat ilustrativo.
 
-## 🎯 Objetivo
+## Para fazer funcionar na sua máquina: 
 
-O objetivo do projeto é oferecer uma **fonte confiável de informações para pessoas com restrições alimentares**, como alergias e intolerâncias. Além de reunir uma ampla base de informações validadas e fundamentadas em fontes confiáveis, o Demeter também busca atuar como uma ponte entre os usuários e profissionais que possam auxiliá-los em sua alimentação, como:
+npm install
+npm run dev
 
-- **Nutricionistas**
-- **Cozinheiros particulares**
+Dica:
+npm start também pode servir para  serve para executar um script de inicialização em nosso arquivo package.json :D
 
-Dessa forma, buscamos centralizar informações relevantes e facilitar o acesso a profissionais especializados, contribuindo para uma alimentação mais segura, informada e adequada às necessidades de cada pessoa
 
-## 📖 Sobre o desenvolvimento
+## Importante
 
-A seguir, será apresentada uma explicação das principais decisões tomadas durante o desenvolvimento do projeto, incluindo:
+Ainda não foi feito uma conexão com o firebase, as telas são apenas protótipos para funcionalidade do código, as verdadeiras ainda estão sendo feitas no figma, devemos atualizar em breve
 
-- Arquitetura do sistema
-- Funcionalidades implementadas
-- Decisões de design
-- Experiência do usuário
-- Estrutura e organização do projeto
+Para esses teste foi usado o Vite na criação do Front end
