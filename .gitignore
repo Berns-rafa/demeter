@@ -39,3 +39,13 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Vercel
+.vercel
+
+# Fora do repositório público (ficam só no computador):
+# painel de administração e configuração/carga do banco de dados (Firebase)
+painel/
+firestore.rules
+firebase.json
+scripts/
